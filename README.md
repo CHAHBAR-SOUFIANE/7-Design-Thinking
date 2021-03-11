@@ -1,1 +1,1 @@
-# 6-Design-Thinking
+# 7-Design-Thinking
